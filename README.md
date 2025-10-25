@@ -4,10 +4,10 @@ Design, as part of my Portfolio Projects, showcases industry best practices in d
 This Project demonstrates a comprehensive **Data Warehousing and Analytics** solution, building a data warehouse to generate actionable insights. 
 
 # Data Architecture
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
-----<img width="1019" height="682" alt="Data Ar Diagram drawio" src="https://github.com/user-attachments/assets/db812f16-bf63-4245-ba2a-008d62f1b6ec" />
+<img width="1019" height="682" alt="Data Ar Diagram drawio" src="https://github.com/user-attachments/assets/db812f16-bf63-4245-ba2a-008d62f1b6ec" />
 
 
 ### Bronze Layer: 
