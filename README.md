@@ -29,11 +29,11 @@ This project involves:
 Develop a modern Data Warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 #### Specification
--Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
--Data Quality: Cleanse and resolve data quality issues prior to analysis.
--Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
--Scope: Focus on the latest dataset only; historization of data is not required.
--Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+-Data Sources: --Import data from two source systems (ERP and CRM) provided as CSV files.
+-Data Quality: --Cleanse and resolve data quality issues prior to analysis.
+-Integration: --Combine both sources into a single, user-friendly data model designed for analytical queries.
+-Scope: --Focus on the latest dataset only; historization of data is not required.
+-Documentation: --Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 # BI: Analytics & Reporting (Data Analysis)
 Objective
@@ -79,10 +79,10 @@ tests/
    -Test scripts and quality files
 
  README.md/                           
-    - Project overview and instructions
+   - Project overview and instructions
     
  LICENSE/
-    - License information for the repository
+   - License information for the repository
     
  gitignore/
    - Files and directories to be ignored by Git
