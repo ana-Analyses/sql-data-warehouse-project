@@ -60,17 +60,26 @@ docs/
    - data_models.drawio              - Draw.io file for data models (star schema)
    - naming-conventions.md           - Consistent naming guidelines for tables, columns, and files
 
-scripts/                             - SQL scripts for ETL and transformations
-bronze/                              - Scripts for extracting and loading raw data
-silver/                              - Scripts for cleaning and transforming data
-gold/                                - Scripts for creating analytical models
+scripts/                             
+- SQL scripts for ETL and transformations
+bronze/
+- Scripts for extracting and loading raw data
+silver/
+ - Scripts for cleaning and transforming data
+gold/
+ - Scripts for creating analytical models
 
-tests/                               -Test scripts and quality files
+tests/                               
+-Test scripts and quality files
 
- README.md/                           - Project overview and instructions
- LICENSE/                             - License information for the repository
- gitignore/                           - Files and directories to be ignored by Git
- requirements.txt/                    - Dependencies and requirements for the project
+ README.md/                           
+ - Project overview and instructions
+ LICENSE/
+ - License information for the repository
+ gitignore/
+- Files and directories to be ignored by Git
+ requirements.txt/
+- Dependencies and requirements for the project
 
 
 
