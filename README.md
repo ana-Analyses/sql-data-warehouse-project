@@ -19,12 +19,15 @@ This layer includes data cleansing, standardisation, and normalisation processes
 Houses business-ready data modelled into a star schema required for reporting and analytics.
 
 # Project Overview
+
 This project involves:
 
 -Data Architecture: 
+
 --Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
 
 -ETL Pipelines: 
+
 --Extracting, transforming, and loading data from source systems into the warehouse.
 
 -Data Modelling: 
