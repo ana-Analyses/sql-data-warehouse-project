@@ -13,7 +13,8 @@
 <img width="1078" height="721" alt="Data_Integration Diagram-Data_Integration_diagram drawio" src="https://github.com/user-attachments/assets/0d201945-1349-4419-9df5-6a4b309c61c1" />
 
 
-## Sales Data Mart 
+## Sales Data Mart
 
---- insert data mart
+
+<img width="746" height="546" alt="Sales_Data_Mart Diagram-Copy of Page-2 drawio" src="https://github.com/user-attachments/assets/82b2d473-37f5-4ef5-88d0-f9dd33405de6" />
 
