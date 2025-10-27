@@ -57,7 +57,7 @@ This document outlines the naming conventions used for schemas, tables, views, c
 Example: 
 customer_key → Surrogate key in the dim_customers table.
 
-####     °Technical Columns
+####     ° Technical Columns
              ° All technical columns must start with the prefix dwh_, followed by a descriptive name indicating the column's purpose.
                °dwh_<column_name>
                °dwh: Prefix exclusively for system-generated metadata.
@@ -66,7 +66,7 @@ customer_key → Surrogate key in the dim_customers table.
 Example:
 dwh_load_date → System-generated column used to store the date when the record was loaded.
 
-####      °Stored Procedure
+####      ° Stored Procedure
               ° All stored procedures used for loading data must follow the naming pattern:
                 °load_<layer>.
                 °<layer>: Represents the layer being loaded, such as bronze, silver, or gold.
